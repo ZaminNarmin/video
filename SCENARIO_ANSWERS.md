@@ -82,3 +82,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: campus at dusk (C1_campus-dusk); library windows glow on, clouds drift in time-lapse, a few students on the steps (far)
 - Camera: slow crane up over the campus as the light changes
 - Sound: music only
+
+### Seg 12 — 0:22–0:24 — 1.09 Graduation day (Route N, real ceremony photo)
+- Action: choir sings on stage, graduates in caps and gowns watch, a woman films with her phone; no year on the banner
+- Camera: slow push through the crowd toward the stage
+- Sound: music + soft choir voices blended in
