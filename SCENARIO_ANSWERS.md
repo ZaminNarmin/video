@@ -34,3 +34,9 @@ Source: OUR_STORY_HANDOFF.md (read in full). Answers recorded as they come in.
 - Into 1.02 (user's words): "The camera smoothly follows Narmin from a slightly diagonal rear angle as she approaches the classroom door. Without cutting, the camera follows her through the doorway and into the corridor. The lighting and ambient sounds gradually change as she moves between the two spaces. Her walking pace remains natural, and the camera movement is smooth and understated, resembling a professionally filmed romantic movie. Avoid artificial morphing, sudden changes in perspective or exaggerated camera movements."
 
 NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers shift by +3).
+
+### Seg 05 — 0:08–0:10 — 1.02 The look (1/2)
+- Action: he walks toward her along the corridor looking at his phone, looks up and sees her
+- Camera: over her shoulder onto him, focus pulls from her hair to him
+- Faces: his face clear, her from behind (soft shoulder/hair in foreground)
+- His look (chapter 1): navy crew-neck sweater, dark jeans, light stubble, slim face; real corridor (C1_corridor), students softly blurred
