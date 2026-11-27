@@ -236,3 +236,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: the three walk between the glowing candy-cane stalls laughing, then turn to the camera and make peace signs (ends on the real photo pose)
 - Camera: light handheld, festive; no ice-castle cutaway
 - His brother: no face reference → keep him at medium distance, gentle motion, close to the real photo (walk mostly from the side/behind until the final pose)
+
+### Seg 37 — 1:12–1:14 — 3.05 Tower Bridge (Route B, night)
+- Photo: C3_tower-bridge-families (cleaned f90861da… / 16:9 e08a51f8…); shopping-bag advert painted out
+- Action: the five stand at the riverside railing smiling; a boat glides past, the bridge lights glow in light fog
+- Camera: starts on the group, cranes up to reveal Tower Bridge in the fog
