@@ -373,3 +373,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she lifts the tray from the side table, turns toward the door and steps forward; steam rises from the tea
 - Camera: moves backward in front of her as she steps
 - Sign behind her: kept exactly; softened only if the letters warp
+
+### Seg 59 — 1:56–1:58 — 6.05 Serving the tea (1/2), KEY SHOT (Route A — do NOT animate the real photo; guests' faces must never show)
+- Action: she walks into the room with the tray; the guests are only blurred dark suits at the edge of the frame, no faces
+- Camera: follows from behind her shoulder into the room, guests out of focus
+- Hair (Seg 59–61): low bun, as in the real 6.03/6.04 photos; white outfit with high embroidered collar and pearl-buttoned cuffs (reference C6_serving-tea for dress/table only)
