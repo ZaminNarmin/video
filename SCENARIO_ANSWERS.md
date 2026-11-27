@@ -218,3 +218,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: everyone steps together into the real photo pose and smiles; visitors stroll behind
 - Camera: wide, slow crane down from the castle walls to the group (families stay wide)
 - Closeness: only as in the real photo
+
+### Seg 34 — 1:06–1:08 — 3.02 London lights (Route N)
+- Photo: C3_london-street-lights (shop names and number plates softened)
+- Action: golden branch-shaped Christmas lights across the street, black cabs and a red double-decker bus pass, people cross, lights twinkle
+- Camera: slow glide forward down the street under the lights
+- Text (edit only): small "London"
