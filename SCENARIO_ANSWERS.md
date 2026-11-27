@@ -383,3 +383,12 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she leans in and gently sets an armudu glass on its saucer at a place setting (white and gold plates, crystal, tall white candle), with a soft smile
 - Camera: close, shallow depth of field — her face and the tea glass sharp, guests only blurred dark suits, no faces
 - He is NOT seen (only her); the real proposal footage shows him afterwards
+
+### Seg 61 — 2:00–2:02 — 6.06 "Hə" (Route B, last AI shot)
+- Photo: C6_her-tea-glass (single armudu glass on a crystal saucer, white outfit, low bun)
+- Action: she smiles warmly at the camera; steam rises; the camera pushes in slowly until the tea glass fills the frame
+- Ending 6.07 (edit): FADE THROUGH STEAM — the tea steam rises and fills the frame, turning soft white over ~1 s; then the real proposal footage follows; grade the end to match the real footage colour
+- Closing card AFTER the real proposal footage only (edit): "Zamin & Narmin" and the date 27.12.2026
+
+**Chapter 6 total: 14 s (1:48–2:02), 7 segments.**
+**FILM TOTAL: 2:02 (61 segments).**
