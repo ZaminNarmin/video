@@ -202,3 +202,10 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Him (right): Michigan student room, heavy snow outside, warm lamp + cold blue window light; he listens and smiles
 - Camera: beside each laptop, 3/4 view of each face lit by the lamp; laptop screens soft or out of view
 - Outfits: her soft oversized high-neck sweater, hair down; him hoodie
+
+### Seg 32 — 1:02–1:04 — 2.14 The call (2/2), last shot of chapter 2
+- Action: he turns his laptop to the window to show her the snow, turns it back, and they both laugh
+- Camera: same angle as Seg 31, slowly pushing closer (continuous take)
+- Chapter end: his snowy window dissolves softly into Edinburgh Castle on a bright winter day (chapter 3)
+
+**Chapter 2 total: 32 s (0:32–1:04), 16 segments.**
