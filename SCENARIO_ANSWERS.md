@@ -69,3 +69,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: medium, slow push-in from the front of the table
 - Faces: both clear; she turns from her notes to look at him
 - Outfits/light: her soft beige turtleneck, hair down; him grey sweater; warm lamp light (real library C1_library, keep the room as is)
+
+### Seg 10 — 0:18–0:20 — 1.07 The park (red bridge)
+- Action: they walk side by side across the red bridge, each holding a takeaway coffee, talking
+- Camera: follows from behind, then rises gently over the bridge
+- Faces: mostly from behind; she turns her face toward him as she laughs (profile)
+- Outfits / setting (user's words): "Narmin wears an elegant, short burgundy winter dress with long sleeves, a long tailored coat worn open so that the dress remains visible, and high, knee-length boots. Her hair is worn down naturally, with subtle movement as she walks. Zamin wears a stylish, casual winter jacket with a coordinated sweater and trousers, complementing her outfit without looking deliberately matched. The setting remains a sunny winter day, with soft, warm sunlight filtering through the pine trees. The overall aesthetic should feel romantic, sophisticated and effortlessly natural, resembling a scene from a real romantic film."
+  → keep the dress neckline high/closed (Rule 6).
+- Note: his name is Zamin (prompts only, never on screen).
