@@ -57,3 +57,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: medium side view of the corridor as they pass, slight slow motion
 - His expression: smile, a little embarrassed (any glance away is tiny; the shared look is the point)
 - Transition: MATCH CUT on the smile → café (her laugh), music continues
+
+### Seg 08 — 0:14–0:16 — 1.05 The café
+- Action: window table with coffee and a small snack; he says something funny, she laughs
+- Camera: medium, slow arc around the window table
+- Faces: both clear, facing each other across the table
+- Outfits: her cream knit sweater (high neck), hair down; him dark jacket over a tee; natural daylight (real café: C1_cafe-atrium, round white tables, red chairs, lawn outside)
