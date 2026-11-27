@@ -367,3 +367,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Photo: C6_her-waiting-calla (elegant white outfit with pearl buttons, dark hair in a low bun, single white calla lily, table of white and blue flowers and sweets)
 - Action: she smiles softly to herself, a little shy — EYES STAY UP (user's later answer overrides "lowers eyes"; same as the corridor)
 - Camera: slow arc from her profile toward a 3/4 view of her face
+
+### Seg 58 — 1:54–1:56 — 6.04 The tea (Route B)
+- Photo: C6_her-tea-tray (cleaned 46964ded… / 16:9 eb8f3642…): gold mirrored tray of armudu glasses with tiny white flowers, white and blue flowers behind
+- Action: she lifts the tray from the side table, turns toward the door and steps forward; steam rises from the tea
+- Camera: moves backward in front of her as she steps
+- Sign behind her: kept exactly; softened only if the letters warp
