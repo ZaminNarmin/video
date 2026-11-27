@@ -127,3 +127,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: perfectly symmetrical centred wide, very slow push-in
 - Faces: small in the big hall; feeling shown through body and distance
 - Sound: soft echoing terminal + suitcase wheels + music
+
+### Seg 19 — 0:36–0:38 — 2.02 Two directions (2/2)
+- Action: halfway up, both turn and give a small wave across the tree
+- Camera: same symmetrical wide, one continuous take from Seg 18, still slowly pushing in
+- Emotion: sad, with a small brave smile
