@@ -230,3 +230,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: from the photo pose the five lean in a little closer and smile; ribbons move in the breeze (closeness only as in the photo)
 - Camera: starts on the red bows and greenery above, tilts down to the families
 - Focus: everyone sharp
+
+### Seg 36 — 1:10–1:12 — 3.04 The winter fair (Route B, night)
+- Photo: C3_winter-wonderland (her grey beanie + black puffer, him grey puffer, his brother in glasses; stall signs softened)
+- Action: the three walk between the glowing candy-cane stalls laughing, then turn to the camera and make peace signs (ends on the real photo pose)
+- Camera: light handheld, festive; no ice-castle cutaway
+- His brother: no face reference → keep him at medium distance, gentle motion, close to the real photo (walk mostly from the side/behind until the final pose)
