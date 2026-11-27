@@ -258,3 +258,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: the five reach the top of the grand staircase and turn for the photo (ends on the real photo pose); warm light, decorated trees behind
 - Camera: low angle from the bottom of the staircase, slowly rising toward them
 - Focus: everyone sharp (families gentle motion)
+
+### Seg 41 — 1:20–1:22 — 3.08 The dinner (Route B)
+- Photo: C3_new-year-dinner (greenery and fairy lights from the balcony, gold crackers on the table); outfits as in the photo
+- Action: she smiles and turns to look at him; he smiles back; a waiter moves softly in the background
+- Camera: slow push-in toward the table
