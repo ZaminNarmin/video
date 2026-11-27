@@ -93,3 +93,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: medium-wide, slow arc around the group; family faces stay small
 - Focus: everyone sharp (deep focus)
 - Look: as in the real photo — black gowns, she in white dress under the gown, hair as in the photo, red roses and diploma
+
+### Seg 14 — 0:26–0:28 — 1.11 The two of us (Route B, real photo)
+- Action: from the photo pose they turn to each other and laugh, then walk out from under the wooden canopy toward the camera, side by side, not touching
+- Camera: dolly backward in front of them
+- Faces: both clear, looking at each other
+- Light: sunlight flickering through the canopy slats (as in the photo); her white dress, him white shirt; "Commencement" banner removed
