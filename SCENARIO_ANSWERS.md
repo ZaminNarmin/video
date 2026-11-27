@@ -144,3 +144,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: two passenger jets side by side above golden clouds slowly turn away from each other; contrails split into a wide V
 - Camera: slow calm aerial drift
 - Light: golden hour
+
+### Seg 22 — 0:42–0:44 — 2.05 Arriving, SPLIT SCREEN (Route B ×2)
+- Her (left): real photo C2_edinburgh-old-college-her, green hoodie and jeans; wind lifts her hair, she looks around the Old College courtyard, then smiles
+- Him (right): real photo C2_msu-sparty-him, green T-shirt and jeans; takes his hands out of his pockets, looks around campus, smiles
+- Camera: slow small orbit around each of them, revealing the place
+- The Spartan statue stays completely still (only he, trees and sky move)
