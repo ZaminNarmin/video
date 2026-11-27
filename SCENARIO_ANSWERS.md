@@ -132,3 +132,10 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: halfway up, both turn and give a small wave across the tree
 - Camera: same symmetrical wide, one continuous take from Seg 18, still slowly pushing in
 - Emotion: sad, with a small brave smile
+
+### Seg 20 — 0:38–0:40 — 2.03 Window seats, SPLIT SCREEN (Route A ×2)
+- Her (left half, facing right): looks out at the clouds, missing him, lowers her eyes
+- Him (right half, facing left): looks out at the clouds, thinking of her, leans his head back against the seat
+- Camera: matched slow push-in in both halves, same soft daylight
+- Text (edit only): "Edinburgh" over her half, "Michigan" over his half
+- Outfits: same travel outfits (her grey sweater set, his blue sweater set), hair down
