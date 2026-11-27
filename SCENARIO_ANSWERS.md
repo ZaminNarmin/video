@@ -156,3 +156,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she walks toward the fountain, stops, lifts her phone and takes a photo of the castle; water flows
 - Camera: behind her, over her shoulder — castle on her phone screen and in real life (no text on screen)
 - Montage pace Seg 23–28: quick loose cuts, about 2 s each
+
+### Seg 24 — 0:46–0:48 — 2.07 Photos back and forth (Route E, made in the edit)
+- Form: SPLIT SCREEN (her left, him right). Her castle photo (C2_edinburgh-castle) flies as a white rounded photo card from her half across the divider to his half; then his campus photo (C2_msu-building) flies back from his half to hers. No names, no times, no dates, no text.
+- Halves (default, confirm at chapter review): left = her by the fountain lowering her phone (tail of 2.06), right = him on the MSU path looking at his phone (head of 2.08)
+- Sound: a soft message "ping" as each photo lands
+- Needs a new edit script (fly-across cards) instead of extras.py chat bubbles
