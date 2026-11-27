@@ -46,3 +46,7 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: cut to her face (reverse shot, medium)
 - Faces: her face clear; she looks up and their eyes meet for a second
 - Sound: corridor chatter softens, music rises
+- UPDATE Seg 06: when their eyes meet she gives a SMALL SMILE, eyes stay on him (do NOT lower her eyes, NO hair-behind-ear gesture). Close-up feel: slight slow motion, 3/4 toward him, soft window light.
+
+### 1.03 Her shy smile — REMOVED as a separate shot (folded into Seg 06)
+### 1.04 His smile — MERGED: one 2 s two-shot (Seg 07): both in frame, she smiles, he smiles back, then the café
