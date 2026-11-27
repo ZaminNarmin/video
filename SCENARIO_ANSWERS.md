@@ -162,3 +162,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Halves (default, confirm at chapter review): left = her by the fountain lowering her phone (tail of 2.06), right = him on the MSU path looking at his phone (head of 2.08)
 - Sound: a soft message "ping" as each photo lands
 - Needs a new edit script (fly-across cards) instead of extras.py chat bubbles
+
+### Seg 25 — 0:48–0:50 — 2.08 His reply (Route A, MSU campus)
+- Action: he stops on the path, looks at her photo on his phone and smiles, then holds the phone up and photographs the curved red-brick building
+- Camera: medium, slow arc from his face round to the building
+- Outfit: green T-shirt and jeans (as in 2.05b), dappled sun under big oaks (location C2_msu-building)
