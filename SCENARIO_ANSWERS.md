@@ -179,3 +179,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: he walks along the river path, skyscraper lights reflected in the water, a tour boat glides past
 - Camera: slow orbit from him round to the skyline
 - Text (edit only): small "Chicago"
+
+### Seg 28 — 0:54–0:56 — 2.11 "Wow" (Route A, the Meadows)
+- Action: she sits on the grass, looks at his Chicago photo on her phone, her eyes widen and she breaks into a delighted smile — NO hand over her mouth (user removed it)
+- Camera: medium, slow push-in toward her face
+- Outfit: light high-neck knit top and jeans, hair down; sunny park, big trees, students relaxing far behind
