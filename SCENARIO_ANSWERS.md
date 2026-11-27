@@ -378,3 +378,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she walks into the room with the tray; the guests are only blurred dark suits at the edge of the frame, no faces
 - Camera: follows from behind her shoulder into the room, guests out of focus
 - Hair (Seg 59–61): low bun, as in the real 6.03/6.04 photos; white outfit with high embroidered collar and pearl-buttoned cuffs (reference C6_serving-tea for dress/table only)
+
+### Seg 60 — 1:58–2:00 — 6.05 Serving the tea (2/2)
+- Action: she leans in and gently sets an armudu glass on its saucer at a place setting (white and gold plates, crystal, tall white candle), with a soft smile
+- Camera: close, shallow depth of field — her face and the tea glass sharp, guests only blurred dark suits, no faces
+- He is NOT seen (only her); the real proposal footage shows him afterwards
