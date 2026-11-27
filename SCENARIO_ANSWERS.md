@@ -356,3 +356,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 ### Seg 55 — 1:48–1:50 — 6.01 Hə Almağa Gəlmişik (Route E/N, edit only)
 - Photo: C6_he-almaga-sign (cleaned e9abbd5b…)
 - Made in the edit from the real photo (extras.py sign): very slow push-in; letters untouched, no AI animation of the sign
+
+### Seg 56 — 1:50–1:52 — 6.02 The table is set (Route N)
+- Photo: C6_table-set (long mirrored table, white and gold plates, crystal glasses, tall white candles, white flowers, white chairs, daylight through curtains)
+- Action: only hands (no faces, modest white sleeves) place the last plate and light a candle; candle flames flicker
+- Camera: slow glide along the table
+- TV on the left: cropped out of frame
