@@ -684,7 +684,7 @@ Families stay at medium/wide distance with gentle motion. Only the couple is loc
 Played reversed: the camera cranes down from the castle walls to the group, which settles into the photo pose.
 **Lock fill:** her "burgundy coat and cream scarf"; him "grey puffer jacket". Closeness only as in the real photo.
 **Edit:** enters through the chapter dissolve from Seg 32.
-**Sound:** wind on the esplanade, distant bagpipe-free city murmur, gulls.
+**Sound:** wind on the esplanade, distant city murmur, gulls.
 
 ### T35 · Seg 34 · 1:06–1:08 · 3.02 London lights
 | Route | Gen | Lock | Use |
@@ -786,4 +786,220 @@ Route A with the real photo as place and outfit reference, because the take star
 
 **Edit:** chapter end: a bright white-gold burst → **0.6 s flash dissolve** into the sunlit McEwan Hall (Seg 43).
 **Sound:** soft, muffled booms and distant cheers under the music. No countdown voices.
+
+---
+
+## 9. Take sheets — Chapter 4: Graduations and home (Seg 43–49, 1:24–1:38)
+
+### T43 + T44 · Seg 43 · 1:24–1:26 · 4.01 Graduations (split screen)
+| Take | Route | Gen | Lock | Use |
+|---|---|---|---|---|
+| T43 her (left) | B, start = `C4_graduation-her-cap-raised` | 5 s, 1080p | LOCK-HER, 1080p | ≈1.5–3.5 s |
+| T44 him (right) | B, start = `2ae4ab0c…` (or `cd5e2fc2…` cropped for the half) | 5 s, 1080p | LOCK-HIM, 1080p | ≈1.5–3.5 s |
+
+**T43 motion prompt:**
+> Start exactly from this photo: a young woman in a black graduation gown over a long white dress stands on a wet stone square in front of a grand domed sandstone hall in golden late-afternoon light, holding her graduation cap raised. 0–2 s: she lifts the cap a little higher. 2–3.5 s: she smiles over her shoulder toward the camera. 3.5–5 s: she laughs softly; other graduates move in the background; clouds drift. The camera slowly orbits a little around her. [KEEPMOTION] [STYLE]
+
+**T44 motion prompt:**
+> Start exactly from this photo: a young man in a black graduation cap and gown holds a rolled diploma outside a modern glass arena on an overcast spring day; a young woman in a brown blazer (his sister) holds his arm, exactly as in the photo. 0–2 s: they smile. 2–3.5 s: he lifts the diploma slightly with a proud smile. 3.5–5 s: his sister laughs; people mingle in the background. All signs stay soft and unreadable. The camera slowly orbits a little around them. [KEEPMOTION] [STYLE]
+
+**Lock fill:** her "black graduation gown over a long white dress" (hair as in the photo); him "black graduation cap and gown". His sister is not locked: keep her motion gentle.
+**Edit:** enters through the firework flash dissolve. Split screen, matched orbit direction (both clockwise).
+**Sound:** her side a choir echo from the hall; his side applause far off.
+
+### T45 · Seg 44 · 1:26–1:28 · 4.02 McEwan Hall
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| N, start = `26692df3…` cropped to 16:9 | 5 s, 1080p | — | ≈1.0–3.0 s |
+
+**Motion prompt:**
+> Animate this photo as real footage: looking up at the gilded, painted dome of a grand circular hall, arched windows and columns below, families watching from the galleries. Warm light; the camera tilts very slowly upward. [STYLE]
+
+**Sound:** a soft choir echoing under the dome, blended into the music.
+
+### T46 · Seg 45 · 1:28–1:30 · 4.03 The pipers
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| N, start = `4e6275b8…` cropped to 16:9 | 5 s, 1080p | — | ≈1.0–3.0 s |
+
+**Motion prompt:**
+> Animate this photo as real footage: outside a sandstone hall at dusk, a Scottish piper in full Highland dress plays the bagpipes, fingers moving on the chanter, and a drummer in a kilt plays the snare drum; graduates in gowns walk past under a lit street lamp. The camera tracks slowly sideways past the pipers. [STYLE]
+
+**Sound:** **real bagpipes and snare drum rise over the music** for these 2 s, then hand back to the music.
+
+### T47 · Seg 46 · 1:30–1:32 · 4.04 Flowers (method R)
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B + R, start = `C4_graduation-her-family` (16:9) | 5 s, 1080p | LOCK-HER, 720p + Topaz (re-lock at 1080p if her face is soft) | the last 2 s of the reversed clip, ending on the photo |
+
+**Motion prompt (generated forward, played reversed):**
+> Start exactly from this photo: a young woman in a graduation gown over a white dress holds a large bouquet, standing with two women in long coats and a boy in a cream sweater on a wet stone square in front of a grand sandstone hall, low golden sunlight. 0–2 s: they relax out of the pose; the young woman hands the bouquet to the older woman beside her (her mother), who takes it with both hands. 2–5 s: they stand half a step apart, chatting and smiling. The camera arcs slowly to the left. Everyone in sharp focus, gentle motion, medium-wide; background people stand still; no one walks. [KEEPMOTION] [STYLE]
+
+Played reversed: her mother hands her the bouquet, she smiles, they settle into the photo pose, the camera arcs right.
+**Lock fill:** her "graduation gown over a white dress".
+**Sound:** soft voices, paper of the bouquet rustling.
+
+### Seg 47 · 1:32–1:34 · 4.05 Flying home — made in the edit
+`globe.py` (old handoff, Appendix C) with `DUR = 2.0` (or render the 3.6 s version and speed it up ×1.8). Night Earth with city lights; arcs from Michigan and Edinburgh meet over Baku with a soft flash; only the word "Baku". **Sound:** a soft whoosh along the arcs and a soft chime at the flash.
+
+### T48 · Seg 48–49 · 1:34–1:38 · 4.06 Home (KEY SHOT, make 2 versions)
+One continuous take, framed **exactly** like T17 (the goodbye).
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| A | 6 s, 1080p | LOCK-BOTH, 720p + Topaz | ≈1.0–5.0 s, uncut, ending as they meet (may stretch to 5 s on the grid) |
+
+**A1 refs:** H1, Z1, ESC-FRAME (the T17 A1 frame, for the exact composition), LOC-airport
+> The first image shows the young woman's face, the second image shows the young man's face, the third image shows the exact framing to copy, the fourth image shows the place. Exactly the same perfectly symmetrical wide framing as the third image: the two escalators on either side of the tall green tree in the terminal. [HER] has just stepped off the bottom of the LEFT escalator and [HIM] off the RIGHT one, at the same moment, each with a suitcase. Summer outfits: she wears a long, flowing white-cream summer dress with a high neckline and short sleeves, hair down; he wears a light-blue linen shirt and beige chinos. They are small in the frame. [KEEPFACE]
+
+**Motion prompt:**
+> A perfectly symmetrical centred wide shot; the camera very slowly pushes in; no cuts. 0–1.5 s: both step off the bottom of the escalators at the same moment on either side of the tree and turn toward each other. 1.5–2.5 s: they see each other and smile. 2.5–5 s: they leave their suitcases and walk toward each other, meeting in the middle in front of the tree. 5–6 s: they stand face to face, close, smiling — no hug, no touch. [KEEPMOTION] [STYLE]
+
+**Lock fill:** her "long white-cream summer dress with a high neckline"; him "light-blue linen shirt and beige chinos".
+**Edit:** cut it so it mirrors Seg 18–19. Chapter end: **0.6 s soft dissolve** into Seg 50.
+**Sound:** the same echoing hall as the goodbye; the music resolves into relief.
+
+---
+
+## 10. Take sheets — Chapter 5: Army (Seg 50–54, 1:38–1:48)
+
+Music mood: quieter and tender, turning gently proud at the visit.
+
+### T49 · Seg 50 · 1:38–1:40 · 5.01 In uniform
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B, start = `C5_him-uniform` (16:9) | 5 s, 1080p | LOCK-HIM, 1080p | ≈1.0–3.0 s |
+
+**Motion prompt:**
+> Start exactly from this photo: a young man in a green digital-camouflage military uniform and matching cap stands on a wide sunlit concrete square in front of a long brick building, a fence with anchor emblems behind him. 0–1.5 s: he straightens. 1.5–3 s: he gives a small, calm smile. 3–5 s: he turns his head toward the building. A light breeze; clouds drift. Slightly low camera angle, slow push-in. [KEEPMOTION] [STYLE]
+
+**Lock fill:** him "green digital-camouflage uniform and matching cap".
+**Sound:** wind across the square, a distant flag rope tapping.
+
+### T50 · Seg 51 · 1:40–1:42 · 5.02 Watching him go (KEY SHOT, make 2 versions)
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| A | 5 s, 1080p | LOCK-HER, 1080p | ≈1.5–3.5 s |
+
+**A1 refs:** H4, `C5_visit-families` (the square and the stone gate), `C5_him-uniform` (his uniform, from behind)
+> The first image shows the young woman's face, the second image shows the place, the third image shows the young man's uniform. Close-up of [HER] on a wide concrete square on a grey day, in a cream coat with a high collar, hair down, face in three-quarter view. In the soft-focus background, the young man in the green digital-camouflage uniform and cap from the third image walks away from the camera toward the stone gate arch from the second image (seen from behind). Shallow depth of field; the gate lettering is out of focus. [KEEPFACE]
+
+**Motion prompt:**
+> Slow motion, close-up, shallow depth of field. 0–5 s: she watches him walk away toward the stone gate arch in the soft background; she tries to smile, takes a small breath, and her eyes glisten. The camera pushes in very slowly. [KEEPMOTION] [STYLE]
+
+**Lock fill:** her "cream coat".
+**Sound:** almost nothing but the music and the wind.
+
+### T51 · Seg 52 · 1:42–1:44 · 5.02 — at the gate he turns and waves
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| A | 5 s, 1080p | LOCK-HIM, 1080p | ≈1.2–3.2 s |
+
+**A1 refs:** Z1, `C5_him-uniform`, `C5_visit-families`
+> The first image shows the young man's face, the second image shows his uniform, the third image shows the place. Medium shot at the stone gate arch from the third image (lettering out of focus): [HIM], in the green digital-camouflage uniform and cap from the second image, stands at the gate turning back toward the square, face in three-quarter view. Far behind him on the wide concrete square stands the young woman in a cream coat, very small. Grey day. [KEEPFACE]
+
+**Motion prompt:**
+> 0–1.5 s: he stops at the gate and turns back toward the square. 1.5–3.5 s: he gives one small wave and a calm smile. 3.5–5 s: far away, small, she waves back. The gate lettering stays soft and out of focus. Slow push-in. [KEEPMOTION] [STYLE]
+
+**Lock fill:** him "green digital-camouflage uniform and cap". She is tiny: no lock.
+
+### T52 · Seg 53 · 1:44–1:46 · 5.03 Waiting
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| A | 5 s, 1080p | LOCK-HER, 1080p | ≈1.5–3.5 s |
+
+**A1 refs:** H4
+> The image shows the young woman's face. A bedroom window in Baku overlooking the city and the Caspian Sea. [HER] sits on the window seat in a cosy high-neck sweater, hair down, holding her phone (its screen a soft glow, nothing readable), face in three-quarter view, the window beside her. Soft light. [KEEPFACE]
+
+**Motion prompt:**
+> 0–2 s: she looks at a photo on her phone (the screen is only a soft glow, nothing readable). 2–5 s: she looks up and out of the window at the city; outside, the seasons change in a fast time-lapse — summer sun, autumn colours, winter grey, spring green — while she stays still and calm. No clock, calendar or date anywhere. The camera pushes in slowly. [KEEPMOTION] [STYLE]
+
+**Fallback** if Kling cannot change the seasons behind her: generate her take with a plain bright window; make a 5 s time-lapse plate of the Baku view (Route N, from a FLUX still of the city and the sea, prompt the seasons changing); composite it into the window in the edit with a mask.
+**Lock fill:** her "cosy high-neck sweater".
+**Sound:** quiet room tone; the seasons pass only in the music.
+
+### T53 · Seg 54 · 1:46–1:48 · 5.04 Visiting day (method R, last shot of chapter 5)
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B + R, start = `C5_visit-families` (car plates blurred, gate lettering unchanged, 16:9) | 5 s, 1080p | LOCK-BOTH, 720p + Topaz | the last 2 s of the reversed clip, ending on the photo |
+
+**Motion prompt (generated forward, played reversed):**
+> Start exactly from this photo: family members on a wide concrete square in front of a stone gate arch; the young man in a green digital-camouflage uniform and cap in the middle, the young woman in white beside him. 0–2 s: they relax out of the photo pose, smiles softening; a light breeze moves hair and coats. 2–5 s: they turn a little to each other and chat; background people stand still. The camera pulls slowly back. Very gentle motion, everyone at a wide distance, no one walks. The gate lettering does not change. [KEEPMOTION] [STYLE]
+
+Played reversed: the camera pushes in slowly while the families gather and settle into the photo, smiling.
+**Lock fill:** her "white outfit"; him "green digital-camouflage uniform and cap".
+**Edit:** chapter end: **0.6 s soft dissolve** into Seg 55.
+**Sound:** soft voices of the families; the music lifts, proud.
+
+---
+
+## 11. Take sheets — Chapter 6: Asking for her hand (Seg 55–61, 1:48–2:02)
+
+Her look: elegant white outfit (pearl buttons, high embroidered collar), dark hair in a **low bun** (as in the real photos). Use H8 + H9 with HER7 in every lock of this chapter.
+Sound for the chapter: warmer music, soft family voices and tea glasses clinking in the background.
+
+### Seg 55 · 1:48–1:50 · 6.01 Hə Almağa Gəlmişik — made in the edit
+`extras.py sign` (old handoff, Appendix C) with `dur = 2.0`, source = `e9abbd5b…`. A very slow push-in on the real photo; the letters are never animated or redrawn. Enters through the chapter dissolve.
+
+### T54 · Seg 56 · 1:50–1:52 · 6.02 The table is set
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| N, start = `C6_table-set` cropped so the TV is out of frame (16:9) | 5 s, 1080p | — | ≈1.0–3.0 s (plate set → candle lit) |
+
+**Motion prompt:**
+> Animate this photo as real footage: a long mirrored dining table laid with white and gold plates, crystal glasses, tall white candles and white flowers, white chairs on both sides, soft daylight through the curtains. 0–2 s: a pair of hands in modest white sleeves (no face, no body visible) enters the frame and places the last white-and-gold plate at a setting. 2–4 s: the hands light a tall white candle with a long match. 4–5 s: the flame flickers and light glints across the crystal. The camera glides slowly along the table. [STYLE]
+
+**Sound:** a plate set down softly, a match striking.
+
+### T55 · Seg 57 · 1:52–1:54 · 6.03 Waiting to come in
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B, start = `C6_her-waiting-calla` (16:9) | 5 s, 1080p | LOCK-HER (+H8, H9), 1080p | ≈2.5–4.5 s |
+
+**Motion prompt:**
+> Start exactly from this photo: the young woman in an elegant white outfit with pearl buttons, her dark hair in a low bun, stands in profile holding a single white calla lily beside a table of white and blue flowers and sweets. 0–2 s: she stands holding the lily, listening to voices from the next room. 2–5 s: she smiles softly to herself, a little shy; her eyes stay up — she does not look down. The camera arcs slowly from her profile toward a three-quarter view of her face. [KEEPMOTION] [STYLE]
+
+**Lock fill:** her "elegant white outfit with pearl buttons"; hair "dark hair in a low bun".
+**QA (user's rule):** eyes stay up. This echoes the corridor smile of Seg 06.
+**Sound:** muffled family voices from the next room.
+
+### T56 · Seg 58 · 1:54–1:56 · 6.04 The tea
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B, start = `eb8f3642…` | 5 s, 1080p | LOCK-HER (+H8, H9), 1080p | ≈1.0–3.0 s (lifts the tray → turns to the door) |
+
+**Motion prompt:**
+> Start exactly from this photo: the young woman in an elegant white outfit holds a gold mirrored tray of pear-shaped armudu tea glasses decorated with tiny white flowers, white and blue flower arrangements behind her. 0–1.5 s: she lifts the tray a little higher from the side table where it rested; steam rises from the tea. 1.5–3 s: she turns toward the door. 3–5 s: she steps forward with the tray, a small smile. The camera moves backward in front of her. The sign behind her stays exactly as it is. [KEEPMOTION] [STYLE]
+
+**Lock fill:** as T55.
+**QA:** the sign letters do not change (soften the sign only if they warp).
+**Sound:** tea glasses clinking softly on the tray.
+
+### T57 · Seg 59–60 · 1:56–2:00 · 6.05 Serving the tea (KEY SHOT, make 2 versions)
+Route A — **never animate the real serving photo** (guests' faces). Use it only as a reference for her dress, hair and the table.
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| A | 8 s, 1080p | LOCK-HER (+H8, H9), 1080p | Seg 59 ≈0.5–2.5 s (walks in); Seg 60 ≈4.6–6.6 s (sets the glass) — a real cut inside the scene |
+
+**A1 refs:** H9, H4, `C6_table-set`, `79246d22…`
+> The first two images show the young woman's face (in the first one her hair is in a low bun, as it must be here), the third image shows the room and the table, the fourth image shows her outfit only. From just behind her right shoulder at the doorway: [HER], her dark hair in a low bun, in the elegant white outfit with a high embroidered collar and pearl-buttoned cuffs from the fourth image, holds a gold tray of armudu tea glasses and is about to walk toward the long table from the third image (white and gold plates, crystal glasses, tall white candles). The seated guests at the table are only dark suits, out of focus, cut by the frame edges or turned away — no faces visible anywhere. [KEEPFACE]
+
+**Motion prompt:**
+> No cuts. 0–3 s: the camera follows just behind her right shoulder as she walks into the room carrying the tray toward the long table; the seated guests are only blurred dark suits at the edges of the frame, their faces never visible. 3–4.5 s: she reaches a place setting; the camera moves round to her side. 4.5–6.5 s: a close shot: she leans in and gently sets one armudu glass of tea on its saucer, with a soft smile; her face and the glass are sharp, everything else is soft. 6.5–8 s: she straightens, still smiling softly. Shallow depth of field. No face other than hers is ever visible. [KEEPMOTION] [STYLE]
+
+**Lock fill:** her "elegant white outfit with a high embroidered collar and pearl-buttoned cuffs"; hair "dark hair in a low bun".
+**He is not seen** (the real proposal footage shows him afterwards).
+**QA:** zero guest faces in any frame, including blurred ones; if one appears, crop or regenerate.
+**Sound:** a glass set on a saucer, soft voices, a hush.
+
+### T58 · Seg 61 · 2:00–2:02 · 6.06 "Hə" → 6.07 fade through the steam
+| Route | Gen | Lock | Use |
+|---|---|---|---|
+| B, start = `C6_her-tea-glass` (widen to 16:9) | 5 s, 1080p | LOCK-HER (+H8, H9), 1080p | ≈0.6–2.6 s; the last 1.0 s is the steam fade |
+
+**Motion prompt:**
+> Start exactly from this photo: the young woman in an elegant white outfit, her hair in a low bun, holds a single armudu glass of tea on a crystal saucer and smiles warmly at the camera. 0–1 s: she smiles warmly; steam rises gently from the tea. 1–3 s: the camera pushes in slowly until the tea glass fills the frame. 3–5 s: the steam rises thicker toward the lens and glows softly in the light. [KEEPMOTION] [STYLE]
+
+**Lock fill:** as T55. Lock before the fade is added.
+**Edit:** §12.6 — fade **through the steam** to soft white over the last ~1 s; the real proposal footage follows. Grade the end to match the real footage.
+**Sound:** the music lands its final warm note on the white; leave a short breath before the real footage's own sound.
 
