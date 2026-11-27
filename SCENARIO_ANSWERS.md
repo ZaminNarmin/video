@@ -263,3 +263,12 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Photo: C3_new-year-dinner (greenery and fairy lights from the balcony, gold crackers on the table); outfits as in the photo
 - Action: she smiles and turns to look at him; he smiles back; a waiter moves softly in the background
 - Camera: slow push-in toward the table
+
+### Seg 42 — 1:22–1:24 — 3.09 Midnight (Route N, last shot of chapter 3)
+- Photo: C3_thames-night (16:9 545612f8…)
+- Action: fireworks burst over the River Thames and the lit skyline, every colour reflected in the water, crowds cheering far away; NO countdown numbers or year
+- Camera: wide, slow push-in over the river
+- Sound: soft muffled booms + distant cheers under the music
+- Chapter end: a bright firework flash dissolves into sunlit McEwan Hall (chapter 4)
+
+**Chapter 3 total: 20 s (1:04–1:24), 10 segments.**
