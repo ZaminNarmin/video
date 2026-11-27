@@ -333,3 +333,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 ### Seg 52 — 1:42–1:44 — 5.02 Watching him go (2/2)
 - Action: at the gate he turns back and gives one small wave; she smiles bravely and waves back
 - Camera: reverse angle from his side — him at the gate (face clear, in uniform), her small in the distance on the square
+
+### Seg 53 — 1:44–1:46 — 5.03 Waiting (Route A)
+- Action: on the window seat of her bedroom in Baku (city and Caspian Sea outside) she looks at his photo on her phone, then out at the city; outside, a slow time-lapse summer → autumn → winter → spring
+- Camera: slow push-in toward her and the window
+- Look: one cosy high-neck sweater, hair down; only the light and the view change
+- Phone: screen soft, a glow of his photo, not readable; no clock, calendar or date anywhere
