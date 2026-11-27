@@ -224,3 +224,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: golden branch-shaped Christmas lights across the street, black cabs and a red double-decker bus pass, people cross, lights twinkle
 - Camera: slow glide forward down the street under the lights
 - Text (edit only): small "London"
+
+### Seg 35 — 1:08–1:10 — 3.03 Under the Christmas arch (Route B)
+- Photo: C3_christmas-arch-families (cleaned c38e70ed… / 16:9 99e9ca6d…)
+- Action: from the photo pose the five lean in a little closer and smile; ribbons move in the breeze (closeness only as in the photo)
+- Camera: starts on the red bows and greenery above, tilts down to the families
+- Focus: everyone sharp
