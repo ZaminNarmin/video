@@ -280,3 +280,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Her (left): photo C4_graduation-her-cap-raised — black gown over a long white dress, wet stone square, domed sandstone McEwan Hall, golden late-afternoon light; she lifts her cap higher and smiles over her shoulder; graduates move behind
 - Him (right): photo C4_graduation-him-msu (cleaned cd5e2fc2… / 16:9 2ae4ab0c…; "No bags" signs softened) — cap and gown, rolled diploma, glass arena, overcast; his sister (brown blazer) holding his arm as in the photo; he lifts the diploma and smiles
 - Camera: matched slow orbit in both halves
+
+### Seg 44 — 1:26–1:28 — 4.02 McEwan Hall (Route N)
+- Photo: C4_mcewan-dome (cleaned 26692df3…)
+- Action/camera: looking up at the painted, gilded dome, arched windows and columns, families in the galleries; very slow upward tilt, warm light
+- Sound: music + soft echoing choir voices
