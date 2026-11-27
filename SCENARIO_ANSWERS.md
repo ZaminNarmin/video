@@ -329,3 +329,7 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: close on her face; in the soft background he walks away toward the stone gate arch; she watches him go, tries to smile, her eyes glisten
 - Camera: close-up, focus on her, him soft in the background, slow motion (gate lettering out of focus)
 - Her outfit (Seg 51–52): cream coat, high neck, hair down; grey day. His uniform exactly as C5_him-uniform.
+
+### Seg 52 — 1:42–1:44 — 5.02 Watching him go (2/2)
+- Action: at the gate he turns back and gives one small wave; she smiles bravely and waves back
+- Camera: reverse angle from his side — him at the gate (face clear, in uniform), her small in the distance on the square
