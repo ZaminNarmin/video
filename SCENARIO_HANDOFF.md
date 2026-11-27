@@ -9,12 +9,12 @@
 ## 0. Read this first
 
 1. **This file is the shot plan.** It replaces Appendix A (timeline) and the per-shot prompts of Appendix B in `OUR_STORY_HANDOFF.md`. **Everything else in that file still applies and is not repeated here in full:** what "real video" means and its acceptance tests (§2), the identity kit (§4), the rules (§5), the method that worked (§6–7), what failed (§8), tools and costs (§10), session hygiene (§11), how to talk to the user (§12), and the helper scripts (Appendix C). Attach and read both files.
-2. **Names:** she is **Narmin**, he is **Zamin**. Use the names only in planning text. In model prompts write "the young woman" / "the young man". Names never appear on screen, except on the closing card **after** the real proposal footage (§9.6).
+2. **Names:** she is **Narmin**, he is **Zamin**. Use the names only in planning text. In model prompts write "the young woman" / "the young man". Names never appear on screen, except on the closing card **after** the real proposal footage (§12.7).
 3. **Length:** 61 segments × 2 s = **2:02**. The user agreed the film may run longer than 2:00 so that no scene is lost. One continuous take (T04, Seg 04–05) may need up to 2 s more; that is allowed (final length 2:02–2:04).
 4. **Everything must look filmed:** real action, real camera moves, real cuts. Never the rejected "animated photo" look. Every take below is written as timed beats with a named camera move.
 5. **Faces only from the user's photos**, and every take with the couple (or the curly-haired friend) goes through the **Genjutsu identity lock** (`hf_mult_replace_object`). No exceptions, even when the first result looks fine.
 6. **First production step = the whole of chapter 1 (Seg 01–16, 32 s).** Make it, assemble it with sound, run QA, and show it to the user. **Do not start chapter 2 before the user says OK.** (§3)
-7. **Ask before spending.** Check the balance, show the cost of the batch, and get an OK before every paid batch. The estimate for the full film is in §11.
+7. **Ask before spending.** Check the balance, show the cost of the batch, and get an OK before every paid batch. The estimate for the full film is in §15.
 8. **The user writes short messages from a phone.** Keep replies short (key points, under ~1,000 characters, no links) and ask with option questions (AskUserQuestion).
 9. Keep `manifest.txt` with every media ID, job ID, file name and decision. Sessions restart; Kling takes 5–10 min and Genjutsu 15–35 min per job.
 
@@ -55,7 +55,7 @@
 |---|---|
 | Production stack | Claude + Higgsfield: FLUX 3 start frames → Kling 4.0 motion → Genjutsu identity lock → ffmpeg edit |
 | Question depth | Every 2 s (done; this plan is the result) |
-| Sound | **Music + soft real sounds** (steps, chatter, café, wind, choir, bagpipes, fireworks, tea glasses). Music source still to confirm (§12). |
+| Sound | **Music + soft real sounds** (steps, chatter, café, wind, choir, bagpipes, fireworks, tea glasses). Music source still to confirm (§17). |
 | Editing | **Real cuts inside scenes; soft dissolves only between chapters.** One match cut (Seg 07→08). |
 | Families (no face refs) | **Medium/wide distance, gentle action.** Lock only the couple. |
 | Her hair | **Follow the real photos:** long, straight, dark-brown and **down** by default; as in the photos at graduations (cap) and on the engagement day (**low bun**, Seg 57–61). |
@@ -145,10 +145,10 @@ Widening portrait photos: masked inpaint of the sides only (`widen_prep.py` → 
 
 ## 3. Production order and approval gates
 
-1. **Before anything paid:** check `balance`; ask the user the open questions in §12 (music source, lock resolution and budget, friend photo). Show the chapter 1 cost (§11) and get an OK.
-2. **Chapter 1 = the test (Seg 01–16, takes T01–T15).** Make start frames → motion → lock → QA (§10) → assemble the 32 s with sound, the title and the dissolve out. Send the user the clip (SendUserFile) and one face sheet per scene. Ask with options: faces right? motion right? anything to change? **Proceed only on an explicit OK.** Fix what the user asks first.
+1. **Before anything paid:** check `balance`; ask the user the open questions in §17 (music source, lock resolution and budget, friend photo). Show the chapter 1 cost (§15) and get an OK.
+2. **Chapter 1 = the test (Seg 01–16, takes T01–T15).** Make start frames → motion → lock → QA (§16) → assemble the 32 s with sound, the title and the dissolve out. Send the user the clip (SendUserFile) and one face sheet per scene. Ask with options: faces right? motion right? anything to change? **Proceed only on an explicit OK.** Fix what the user asks first.
 3. **Chapters 2–6:** for each chapter: short plan + cost → OK → generate → QA → show the chapter cut → OK.
-4. **Final assembly** (§9): all 61 segments, transitions, text, music and sound, colour match of the end to the real proposal footage, export.
+4. **Final assembly** (§12–13): all 61 segments, transitions, text, music and sound, colour match of the end to the real proposal footage, export.
 5. Always generate **2 versions** of the key shots (T05, T06, T17, T32/T33, T39, T48, T57) and let QA pick.
 
 ### 3.1 How each route works (short; details in `OUR_STORY_HANDOFF.md` §7)
@@ -236,7 +236,7 @@ Chapter outfits: **her** pink crew-neck sweater, blue jeans, cream canvas backpa
 > A wide shot of a bright university lecture hall just as the class ends, soft daylight. 0–1.5 s: all around the hall students stand up from their seats, close their notebooks, gather their things and talk casually; a few walk toward the door. 1.5–3.5 s: the camera dollies slowly and smoothly forward from the back rows down the aisle toward the young woman in the pink crew-neck sweater, who is still seated, writing in her notebook, eyes down. 3.5–5 s: the camera keeps gliding closer; students cross between her and the camera; she keeps writing, calm and relaxed. [KEEPMOTION] [STYLE]
 
 **Lock fill:** her outfit "pink crew-neck sweater and blue jeans"; hair "long, straight dark-brown hair worn down".
-**Edit:** the film opens with a 0.5 s fade from black. Title **"Where it all began"** (§9.5) from 0:00.8 to 0:03.4, crossing the cut into Seg 02. Then a hard cut.
+**Edit:** the film opens with a 0.5 s fade from black. Title **"Where it all began"** (§12.5) from 0:00.8 to 0:03.4, crossing the cut into Seg 02. Then a hard cut.
 **Sound:** music starts from silence; classroom ambience — chairs scraping, bags zipping, soft chatter.
 **QA:** her face clear in three-quarter view, eyes down; real dolly parallax (desks pass the lens).
 
@@ -445,7 +445,7 @@ Played reversed, this reads as: the family gathers and settles into the photo po
 ## 7. Take sheets — Chapter 2: Studying abroad (Seg 17–32, 0:32–1:04)
 
 Travel outfits (Seg 17–20): **her** comfortable grey sweater (high crew neck) with matching grey sweatpants, hair down; **him** blue sweater with matching blue sweatpants. Suitcases: hers beige hard-shell, his dark grey (default).
-Split screens: **her left, him right**, each half 958×1080, 4 px white divider, matched light, both halves cut at the same moment (§9.1).
+Split screens: **her left, him right**, each half 958×1080, 4 px white divider, matched light, both halves cut at the same moment (§12.1).
 
 ### T16 · Seg 17 · 0:32–0:34 · 2.01 Leaving together
 | Route | Gen | Lock | Use |
@@ -499,7 +499,7 @@ One continuous symmetrical take.
 **T19 motion prompt:**
 > Close-medium shot. 0–2 s: he looks out of the oval window at the clouds below, thinking of her. 2–3.5 s: he rests his head back against the seat. 3.5–5 s: he keeps looking out, a little sad. Soft daylight on his face; clouds drift past outside. The camera pushes in slowly. [KEEPMOTION] [STYLE]
 
-**Edit:** split screen, her left facing right, him right facing left, so they seem to look toward each other across the divider. Match brightness and colour. Text: **"Edinburgh"** on her half, **"Michigan"** on his half (§9.5).
+**Edit:** split screen, her left facing right, him right facing left, so they seem to look toward each other across the divider. Match brightness and colour. Text: **"Edinburgh"** on her half, **"Michigan"** on his half (§12.5).
 **Sound:** soft cabin hum under the music.
 
 ### T20 · Seg 21 · 0:40–0:42 · 2.04 Two skies
@@ -544,7 +544,7 @@ One continuous symmetrical take.
 **Sound:** fountain water, a soft phone-camera click.
 
 ### Seg 24 · 0:46–0:48 · 2.07 Photos fly between the halves — made in the edit
-See §9.2. Left half = T23 tail; right half = T24 head (he looks at his phone). Two soft "pings".
+See §12.2. Left half = T23 tail; right half = T24 head (he looks at his phone). Two soft "pings".
 
 ### T24 · Seg 25 · 0:48–0:50 · 2.08 His reply
 | Route | Gen | Lock | Use |
@@ -580,7 +580,7 @@ See §9.2. Left half = T23 tail; right half = T24 head (he looks at his phone). 
 > Start exactly from this photo: night in Chicago; the young man in a cream fleece jacket stands at a stone balustrade above the river. 0–1.5 s: he smiles, takes his hands out of his pockets and starts to walk along the riverside path. 1.5–5 s: he walks slowly along the balustrade, looking at the city lights; skyscraper lights reflect and shimmer in the water and a tour boat glides past. The camera orbits slowly from him round toward the skyline. No lettering on any building. [KEEPMOTION] [STYLE]
 
 **Lock fill:** him "cream fleece jacket".
-**Edit:** small **"Chicago"** (§9.5).
+**Edit:** small **"Chicago"** (§12.5).
 **Sound:** water lapping, the distant city, a boat engine.
 **QA:** face holds up in low light; no tower lettering.
 
@@ -694,7 +694,7 @@ Played reversed: the camera cranes down from the castle walls to the group, whic
 **Motion prompt:**
 > Animate this photo as real footage: a London shopping street at dusk with golden branch-shaped Christmas lights strung across it. Black cabs and a red double-decker bus drive through, people cross the road, the lights twinkle. The camera glides slowly forward down the street under the lights. Shop names and number plates stay soft and unreadable. [STYLE]
 
-**Edit:** small **"London"** (§9.5).
+**Edit:** small **"London"** (§12.5).
 **Sound:** traffic, a bus passing, street crowd.
 
 ### T36 · Seg 35 · 1:08–1:10 · 3.03 Under the Christmas arch (method R)
@@ -1003,3 +1003,237 @@ Route A — **never animate the real serving photo** (guests' faces). Use it onl
 **Edit:** §12.6 — fade **through the steam** to soft white over the last ~1 s; the real proposal footage follows. Grade the end to match the real footage.
 **Sound:** the music lands its final warm note on the white; leave a short breath before the real footage's own sound.
 
+---
+
+## 12. Edit-only work and assembly rules
+
+### 12.1 Split screens (Seg 20, 22, 29, 30, 31–32, 43, and the background of 24)
+- Canvas 1920×1080. **Left half = her** (x 0–957), **4 px white divider** (x 958–961), **right half = him** (x 962–1919). Each half is a 958×1080 crop of its own 1080p take, chosen so the face sits about one third in from the divider and **looks toward the divider** (her facing right, him facing left).
+- Match exposure and colour between the halves (grade both to the same warm look).
+- Both halves start and end on the same frame; the cut in and out is shared.
+- In Seg 31–32 sync the beats: his laptop turn and her widening eyes at the same moment, then the shared laugh.
+
+### 12.2 Seg 24 — the photos fly between the halves (write a small `fly.py`, OpenCV + ffmpeg, 2.0 s, 24 fps)
+- Background: split screen. Left = T23 tail (≈3.5–5.0 s: she lowers her phone). Right = T24 head (≈0.0–2.0 s: he looks at his phone). Darken both by ~15% so the cards read.
+- **Card 1 — her castle photo** (`C2_edinburgh-castle`): white-bordered rounded card, 420 px wide, 14 px white border, 22 px corner radius, soft drop shadow. 0.00–0.20 s: appears near her phone on the left half, scaling 0.6→1.0. 0.20–0.90 s: flies on a gentle upward arc across the divider to the right half (ease-in-out), rotating −4°→+3°. 0.90 s: lands near his phone with a tiny bounce and a soft **"ping"**. 0.90–1.10 s: fades out.
+- **Card 2 — his campus photo** (`C2_msu-building`): 1.00–1.20 s appears on the right; 1.20–1.85 s flies back across to the left half; 1.85 s lands with a second soft **"ping"**; holds to 2.0 s.
+- No names, no times, no dates, no text, no app interface. Cards stay modest in size; faces in the halves stay visible.
+
+### 12.3 Seg 47 — globe
+`globe.py` with `DUR = 2.0` (or speed the 3.6 s render ×1.8 with `setpts=PTS/1.8`). Check that the arcs start at East Lansing and Edinburgh and meet over Baku. The only word is "Baku".
+
+### 12.4 Seg 55 — the sign
+`extras.py sign` with `dur = 2.0` from `e9abbd5b…`. The letters are never animated.
+
+### 12.5 On-screen words (edit only; never generated)
+| Word | Where | When | Style |
+|---|---|---|---|
+| Where it all began | centred, slightly below the middle | 0:00.8–0:03.4 (over Seg 01–02) | thin elegant serif (e.g. Cormorant Garamond Light), white, 68 px, letter-spacing +2%, soft shadow (black 30%, blur 8 px), 0.4 s fade in/out |
+| Edinburgh / Michigan | lower third of each half, centred in the half | Seg 20, 0.3–1.7 s into the segment | same serif, 48 px |
+| Chicago | lower left | Seg 27, 0.3–1.7 s in | same, 48 px |
+| London | lower left | Seg 34, 0.3–1.7 s in | same, 48 px |
+| Baku | inside the globe (globe.py) | Seg 47 | as rendered |
+No other words, numbers or dates anywhere in the 2:02.
+
+### 12.6 The ending — 6.07, fade through the steam
+- In the last ~1.0 s of Seg 61 the steam over the tea glass thickens toward the lens. Build a luminance key from the steam, brighten it, and ramp a soft warm-white (≈#FBF7F0) overlay from 0% to 100% over 1.0 s with an ease-in curve, so the white seems to grow **out of the steam**.
+- Hold full white 2–3 frames, then the real proposal footage starts (it is not part of the 2:02).
+- Grade the last 3–4 shots toward the colour of the real proposal footage so the change feels natural. Ask the user to attach that footage for the final step.
+
+### 12.7 Closing card (after the real proposal footage only)
+Soft cream/white background (or a softly blurred still from the real footage). **"Zamin & Narmin"** in the same serif, 88 px, and below it **"27.12.2026"**, 48 px. Fade in 1.0 s, hold 4 s, fade out 1.5 s. This is the only place in the whole film where names or a date appear.
+
+### 12.8 Transitions
+| Where | Transition |
+|---|---|
+| Start | 0.5 s fade in from black |
+| Inside every scene | straight cuts (real film cuts) |
+| Seg 07 → 08 | **match cut** on the smile → her laugh; music continuous |
+| Ch 1 → 2 (Seg 16 → 17) | 0.6 s dissolve **through the glowing string lights** |
+| Ch 2 → 3 (Seg 32 → 33) | 0.6 s dissolve: **his snowy window melts into Edinburgh Castle** |
+| Ch 3 → 4 (Seg 42 → 43) | a bright firework burst → 0.6 s **flash dissolve** into the sunlit McEwan Hall |
+| Ch 4 → 5 (Seg 49 → 50) | 0.6 s soft dissolve |
+| Ch 5 → 6 (Seg 54 → 55) | 0.6 s soft dissolve |
+| End (Seg 61) | fade through the steam to soft white (§12.6), then the real footage |
+
+### 12.9 Retime, grade, export
+- Retime every locked result back to its source length (Genjutsu returns ~5.7–6.04 s for a 5.9 s source; see `assemble.py`). For R-method takes, lock first, then reverse (`reverse` filter), then trim.
+- Put each piece on the 2-second grid of §13. Continuous takes span their segments uncut.
+- One warm, soft, consistent grade across the film; light film grain added in the edit; skin tones natural.
+- Export: 1920×1080, 24 fps, H.264 CRF 17, `yuv420p`, AAC 192k, `-movflags +faststart`. Keep a ProRes or CRF 12 master as well.
+
+---
+
+## 13. Master timeline (2-second grid; the user's answers)
+
+If T04 or T39/T48 stretch (allowed), shift every later row by the same amount.
+
+| Seg | Time | Ch | Shot | Take · use | Route | What we see | Words | Out |
+|---|---|---|---|---|---|---|---|---|
+| 01 | 0:00–0:02 | 1 | 1.01 | T01 ≈1.0–3.0 | A | wide hall, class ends, dolly toward her writing | Where it all began | cut |
+| 02 | 0:02–0:04 | 1 | 1.01 | T02 ≈0.6–2.6 | A | MCU: she closes the notebook, packs | (title ends 0:03.4) | cut |
+| 03 | 0:04–0:06 | 1 | 1.01 | T03 ≈1.2–3.2 | A | curly-haired friend jokes; she laughs | — | cut |
+| 04 | 0:06–0:08 | 1 | 1.01 | T04 (uncut, 04–05) | A | wave goodbye, walk, through the doorway | — | continuous |
+| 05 | 0:08–0:10 | 1 | 1.02 | T04 | A | over her shoulder: he looks up from his phone | — | cut |
+| 06 | 0:10–0:12 | 1 | 1.02 | T05 ≈1.8–3.8 | A | her face: eyes meet, small smile, eyes stay up | — | cut |
+| 07 | 0:12–0:14 | 1 | 1.03+1.04 | T06 ≈1.2–3.2 | A | side view, slow-mo: they pass, shared smile | — | **match cut** |
+| 08 | 0:14–0:16 | 1 | 1.05 | T07 ≈0.9–2.9 | A | café: she laughs at his joke | — | cut |
+| 09 | 0:16–0:18 | 1 | 1.06 | T08 ≈1.8–3.8 | A | library: she explains, he nods, a quiet smile | — | cut |
+| 10 | 0:18–0:20 | 1 | 1.07 | T09 ≈1.6–3.6 | A | red bridge with coffees, she laughs, camera rises | — | cut |
+| 11 | 0:20–0:22 | 1 | 1.08 | T10 ≈1.5–3.5 | N | campus dusk time-lapse, crane up | — | cut |
+| 12 | 0:22–0:24 | 1 | 1.09 | T11 ≈1.0–3.0 | N | ceremony, choir, push toward the stage | — | cut |
+| 13 | 0:24–0:26 | 1 | 1.10 | T12 reversed, last 2 s | B+R | families gather into the photo | — | cut |
+| 14 | 0:26–0:28 | 1 | 1.11 | T13 ≈0.6–2.6 | B | they laugh and walk out from the canopy | — | cut |
+| 15 | 0:28–0:30 | 1 | 1.12 | T14 ≈1.0–3.0 | B | red carpet, flashes, she leans in | — | cut |
+| 16 | 0:30–0:32 | 1 | 1.13 | T15 ≈1.0–3.0 | B | she dances, he turns; up into the lights | — | **dissolve (lights)** |
+| 17 | 0:32–0:34 | 2 | 2.01 | T16 ≈1.0–3.0 | A | airport walk, grey and blue sweater sets | — | cut |
+| 18 | 0:34–0:36 | 2 | 2.02 | T17 (uncut, 18–19) | A | symmetrical escalators: they part | — | continuous |
+| 19 | 0:36–0:38 | 2 | 2.02 | T17 | A | halfway up: a small wave across the tree | — | cut |
+| 20 | 0:38–0:40 | 2 | 2.03 | T18 + T19 split | A | plane windows, missing each other | Edinburgh / Michigan | cut |
+| 21 | 0:40–0:42 | 2 | 2.04 | T20 ≈1.5–3.5 | N | two jets turn apart, golden hour | — | cut |
+| 22 | 0:42–0:44 | 2 | 2.05 | T21 + T22 split | B | arrivals: look around, smile | — | cut |
+| 23 | 0:44–0:46 | 2 | 2.06 | T23 ≈1.5–3.5 | A | fountain: she photographs the castle | — | cut |
+| 24 | 0:46–0:48 | 2 | 2.07 | E (§12.2) | E | photos fly between the halves, two pings | — | cut |
+| 25 | 0:48–0:50 | 2 | 2.08 | T24 ≈1.0–3.0 | A | he smiles at her photo, photographs the building | — | cut |
+| 26 | 0:50–0:52 | 2 | 2.09 | T25 ≈1.0–3.0 | B | mascot photo pose, he laughs | — | cut |
+| 27 | 0:52–0:54 | 2 | 2.10 | T26 ≈1.5–3.5 | B | Chicago at night, he walks by the river | Chicago | cut |
+| 28 | 0:54–0:56 | 2 | 2.11 | T27 ≈1.8–3.8 | A | Meadows: her eyes widen, delighted smile | — | cut |
+| 29 | 0:56–0:58 | 2 | 2.12 | T28 + T29 split | A | both busy writing notes | — | cut |
+| 30 | 0:58–1:00 | 2 | 2.13 | T30 + T31 split | A | winter walks: drizzle and castle / deep snow | — | cut |
+| 31 | 1:00–1:02 | 2 | 2.14 | T32 + T33 split (uncut, 31–32) | A | evening video call, talking, smiling | — | continuous |
+| 32 | 1:02–1:04 | 2 | 2.14 | T32 + T33 | A | he shows the snow; both laugh | — | **dissolve (window → castle)** |
+| 33 | 1:04–1:06 | 3 | 3.01 | T34 reversed, last 2 s | B+R | crane down: families settle at the castle | — | cut |
+| 34 | 1:06–1:08 | 3 | 3.02 | T35 ≈1.0–3.0 | N | London Christmas street, cabs and a red bus | London | cut |
+| 35 | 1:08–1:10 | 3 | 3.03 | T36 reversed, last 2 s | B+R | tilt down from the arch; they lean in | — | cut |
+| 36 | 1:10–1:12 | 3 | 3.04 | T37 ≈3.0–5.0 | A→B (E) | winter fair: walk, then peace signs | — | cut |
+| 37 | 1:12–1:14 | 3 | 3.05 | T38 ≈1.5–3.5 | B | Tower Bridge, boat passes, crane up | — | cut |
+| 38 | 1:14–1:16 | 3 | 3.06 | T39 (uncut, 38–39) | A | they walk up to the tree | — | continuous |
+| 39 | 1:16–1:18 | 3 | 3.06 | T39 | A | she hangs a bauble; they look at each other | — | cut |
+| 40 | 1:18–1:20 | 3 | 3.07 | T40 ≈3.0–5.0 | A→B (E) | arrive at the top of the staircase, turn for the photo | — | cut |
+| 41 | 1:20–1:22 | 3 | 3.08 | T41 ≈1.5–3.5 | B | dinner: she turns to him and smiles | — | cut |
+| 42 | 1:22–1:24 | 3 | 3.09 | T42 ≈1.5–3.5 | N | fireworks over the Thames | — | **flash dissolve** |
+| 43 | 1:24–1:26 | 4 | 4.01 | T43 + T44 split | B | her cap up / his diploma up | — | cut |
+| 44 | 1:26–1:28 | 4 | 4.02 | T45 ≈1.0–3.0 | N | McEwan dome, tilt up | — | cut |
+| 45 | 1:28–1:30 | 4 | 4.03 | T46 ≈1.0–3.0 | N | pipers and drummer | — | cut |
+| 46 | 1:30–1:32 | 4 | 4.04 | T47 reversed, last 2 s | B+R | her mother hands her the bouquet | — | cut |
+| 47 | 1:32–1:34 | 4 | 4.05 | E globe | E | two arcs meet over Baku | Baku | cut |
+| 48 | 1:34–1:36 | 4 | 4.06 | T48 (uncut, 48–49) | A | summer outfits: they step off and turn | — | continuous |
+| 49 | 1:36–1:38 | 4 | 4.06 | T48 | A | they meet by the tree, smiling, no touch | — | **dissolve** |
+| 50 | 1:38–1:40 | 5 | 5.01 | T49 ≈1.0–3.0 | B | him in uniform, calm smile | — | cut |
+| 51 | 1:40–1:42 | 5 | 5.02 | T50 ≈1.5–3.5 | A | close on her, he walks to the gate behind | — | cut |
+| 52 | 1:42–1:44 | 5 | 5.02 | T51 ≈1.2–3.2 | A | at the gate he turns and waves | — | cut |
+| 53 | 1:44–1:46 | 5 | 5.03 | T52 ≈1.5–3.5 | A | window in Baku, seasons change | — | cut |
+| 54 | 1:46–1:48 | 5 | 5.04 | T53 reversed, last 2 s | B+R | visiting day, families settle | — | **dissolve** |
+| 55 | 1:48–1:50 | 6 | 6.01 | E sign | E | the sign, slow push-in | (real sign) | cut |
+| 56 | 1:50–1:52 | 6 | 6.02 | T54 ≈1.0–3.0 | N | hands place the plate, light a candle | — | cut |
+| 57 | 1:52–1:54 | 6 | 6.03 | T55 ≈2.5–4.5 | B | calla lily, soft smile, eyes up | — | cut |
+| 58 | 1:54–1:56 | 6 | 6.04 | T56 ≈1.0–3.0 | B | she lifts the tray, turns to the door | — | cut |
+| 59 | 1:56–1:58 | 6 | 6.05 | T57 ≈0.5–2.5 | A | she walks in with the tray | — | cut |
+| 60 | 1:58–2:00 | 6 | 6.05 | T57 ≈4.6–6.6 | A | she sets a glass of tea, soft smile | — | cut |
+| 61 | 2:00–2:02 | 6 | 6.06 + 6.07 | T58 ≈0.6–2.6 | B | smile → glass fills the frame → steam to white | — | **steam fade → real footage** |
+
+Chapter lengths: Ch1 32 s · Ch2 32 s · Ch3 20 s · Ch4 14 s · Ch5 10 s · Ch6 14 s = **2:02**.
+
+---
+
+## 14. Sound plan
+
+**Music:** one continuous piece for the whole 2:02 (source still to confirm, §17). If AI-made (`generate_audio`), prompt:
+> Gentle cinematic romantic score, about 2 minutes 5 seconds, solo piano with soft warm strings, around 72 bpm, no vocals. Starts from silence, light and warm; a gentle rise at 0:10–0:14; playful and warm until 0:24; a fuller swell at 0:24–0:32; thinner and bittersweet at 0:34–0:42; curious and warm with a light pulse from 0:42 to 1:00; tender at 1:00–1:04; festive and bright with soft bells from 1:04 to 1:14; at its quietest and warmest at 1:14–1:18; a lift at 1:22–1:24; proud and full at 1:24–1:38; quiet and tender at 1:38–1:46 with a small proud lift at 1:46; warm and full from 1:48, resolving on one final warm note at 2:01–2:02.
+If the user sends a song: cut it to 2:02–2:04 so its ending lands on the steam fade; keep cuts on the beat where possible.
+
+**Real sounds** (`search_sound_effects` / `download_sound_effect`), always under the music (about −10 dB), never voices with words that can be understood:
+| Segments | Sounds |
+|---|---|
+| 01–03 | classroom chatter, chairs, a bag zipping, notebook closing; her laugh in Seg 03 audible |
+| 04–05 | chatter fading at the door, corridor footsteps, airier room tone |
+| 06–07 | corridor sound drops away; music rises (no effects) |
+| 08–09 | café murmur, a cup on a saucer; quiet library, a page turning |
+| 10 | footsteps on the wooden bridge, birds, wind in the pines |
+| 11 | music only |
+| 12 | soft choir blended in |
+| 13–15 | evening voices; footsteps; shutter clicks and flash pops |
+| 16 | party ambience swelling into the dissolve |
+| 17–19 | terminal ambience, suitcase wheels, echoing hall, escalator hum |
+| 20–21 | cabin hum; high-altitude wind |
+| 22–28 | wind / campus birds; fountain water and a phone-camera click; two soft "pings" (Seg 24); a click (Seg 25); festival crowd; river water and a boat; park birds |
+| 29–30 | pens and pages; drizzle and wind / snow crunch |
+| 31–32 | rain on her window, muffled snow wind on his; both laughs soft |
+| 33–37 | esplanade wind and gulls; London traffic and a bus; breeze; fairground and laughter; river and a far boat horn |
+| 38–41 | soft lounge ambience and a bauble's clink; hotel lobby and distant piano; restaurant murmur, glasses |
+| 42 | soft muffled firework booms and distant cheers (no countdown) |
+| 43–45 | choir echo / far applause; choir under the dome; **bagpipes and drum up front for Seg 45** |
+| 46–47 | voices and bouquet paper; soft whoosh and a chime on the globe |
+| 48–49 | the same echoing hall as the goodbye |
+| 50–54 | wind across the square; near silence for her; family voices at the visit |
+| 55–61 | warm room tone, soft family voices from the next room, a plate set down, a match, tea glasses clinking, a glass on a saucer; silence under the final note |
+
+Mix: music about −16 LUFS integrated for the film; keep the end clean so the real footage's own sound starts fresh.
+
+---
+
+## 15. Cost estimate (Higgsfield credits; verify with `estimate_video_cost` before each batch — prices change)
+
+Prices used (from `OUR_STORY_HANDOFF.md` §10): Kling 4.0 1080p 3.25/s; Genjutsu lock ~7/s at 720p, ~20/s at 1080p; FLUX 3 start frame ~3; Nano Banana inpaint ~2. Totals include 2 versions of the key shots and the prep, **plus 30% for retries**.
+
+| Chapter | Generated s | Locked s | All locks 720p + Topaz | Locks at 1080p as marked |
+|---|---|---|---|---|
+| 1 (the test) | 77 | 67 | ≈ 1,050 | ≈ 1,900 |
+| 2 | 92 | 87 | ≈ 1,350 | ≈ 2,600 |
+| 3 | 46 | 36 | ≈ 600 | ≈ 770 |
+| 4 | 31 | 21 | ≈ 380 | ≈ 530 |
+| 5 | 25 | 25 | ≈ 390 | ≈ 710 |
+| 6 | 28 | 23 | ≈ 400 | ≈ 770 |
+| **Film** | **≈ 300** | **≈ 260** | **≈ 4,200** | **≈ 7,300** |
+Without retries: ≈ 3,200 (all 720p) / ≈ 5,600 (as marked). Music, sound effects and Topaz upscales are small extras.
+
+**Recommendation to offer the user:** lock everything at 720p, upscale with Topaz, and re-lock at 1080p only the shots where a face looks soft after the upscale (usually the close-ups: T05, T06, T27, T50, T55, T57, T58). This should land near the lower column plus a few hundred credits.
+The balance was **570 credits on 14 Nov 2026** (Ultra plan, 3,000/month). The user will very likely need more credits; say so with the numbers before starting.
+
+---
+
+## 16. QA checklist (in addition to `OUR_STORY_HANDOFF.md` §2.3)
+
+Make a face sheet per take (reference crops next to start/middle/end face crops) and a full-frame strip. Look at it yourself before showing anything.
+- [ ] **Action** in every 2 s; camera moves with real parallax; nothing looks like an animated photo.
+- [ ] **First vs last frame SSIM < 0.90** for every 5 s take (never start = end image).
+- [ ] **Her face** = the real face from the front and in profile (round face, full cheeks, thick brows, full lips); not thinner or "model-like".
+- [ ] **His face** = him, slimmer, defined jaw, light stubble, real hairline; not heavier, no double chin.
+- [ ] **Friend's face** (T01, T03, T04) = the friend's photo.
+- [ ] **Outfits and hair** continuous inside each scene; her hair down except caps (graduation) and the low bun (chapter 6).
+- [ ] **User-specific rules:** Seg 06 and Seg 57 eyes stay up, no hair tuck in Seg 06; Seg 07 no stop, look-back or nod; Seg 28 no hand over the mouth; Seg 38–39 and all couple shots no added touch; the prom gown stays as in her real photo.
+- [ ] **Necklines** high and closed in every generated outfit (burgundy dress, summer dress, sweaters).
+- [ ] **No text, numbers or dates** anywhere: screens soft, signs soft, no countdown, no clock, no plates; the real 6.01 sign unchanged; the 6.04 sign unchanged.
+- [ ] **Families** at medium/wide distance; no family face changes noticeably; R-method takes do not read backwards.
+- [ ] **Seg 59–60:** zero guest faces.
+- [ ] **Split screens:** her left, him right, looking toward the divider, matched light.
+- [ ] **Statue** (Seg 22) and the **escalator framing** (Seg 18–19 = Seg 48–49) are right.
+- [ ] **Edit:** cuts, the one match cut, five chapter dissolves, the steam ending; words only as in §12.5.
+
+---
+
+## 17. Open items — ask the user these first (options, short)
+
+1. **Music:** "Your own song (send it) / AI soft piano and strings (§14) / decide later."
+2. **Credits and quality:** show the balance and §15; options "720p locks + upscale, re-lock close-ups (Recommended) / 1080p locks as marked / test chapter 1 first and decide."
+3. **The friend's photo** (needed for T01, T03, T04) and, if they like, her outfit (default olive-green knit sweater and jeans).
+4. **The real proposal footage** — needed only at the end, to match the colour and check the steam fade into it.
+5. Remind them that T04 (and T39/T48) may each add up to 2 s; the film may end at about 2:04–2:06. They already agreed the film can run longer.
+
+---
+
+## 18. Manifest template (`manifest.txt`, one line per event)
+
+```
+date-time | take | step (A1/A2/A3/B1/B2/B3/N/E/edit) | model | input IDs (refs in order) | job ID | result file | duration | resolution | credits | status (ok/retry/rejected) | note
+```
+Example:
+```
+2026-12-01 10:12 | T05 | A1 | flux_3_image | H4, LOC-corridor | <job> | t05_a1.png | — | 2k | 3 | ok | face matches H4
+2026-12-01 10:20 | T05 | A2 | kling4_0 i2v | start=<T05 A1 job> | <job> | t05_a2_v1.mp4 | 5.0 s | 1080p | 16.25 | ok | eyes stay up ✓
+2026-12-01 10:48 | T05 | A3 | hf_mult_replace_object | src=<T05 A2 job>; H1–H7 | <job> | t05_lock.mp4 | 5.9 s | 1080p | ~100 | ok | profile ✓
+```
+
+---
+
+*End of the scenario handoff. Everything the user decided is in this file; their exact words are in `SCENARIO_ANSWERS.md`.*
