@@ -297,3 +297,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: her mother hands her the big bouquet, she smiles, and they settle into the real photo pose
 - Camera: medium-wide slow arc, sandstone hall in golden light behind (family stays medium/wide)
 - Focus: everyone sharp
+
+### Seg 47 — 1:32–1:34 — 4.05 Flying home (Route E, globe.py)
+- Night Earth with city lights; two glowing arcs from Michigan (42.73 N, −84.48 E) and Edinburgh (55.95 N, −3.19 E) meet over Baku (40.41 N, 49.87 E) with a soft flash; only the word "Baku"
+- Length: 2 s (render globe.py with DUR=2.0, or speed the 3.6 s render up ×1.8)
+- Sound: soft whoosh along the arcs + a soft chime at the flash
