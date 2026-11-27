@@ -63,3 +63,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: medium, slow arc around the window table
 - Faces: both clear, facing each other across the table
 - Outfits: her cream knit sweater (high neck), hair down; him dark jacket over a tee; natural daylight (real café: C1_cafe-atrium, round white tables, red chairs, lawn outside)
+
+### Seg 09 — 0:16–0:18 — 1.06 The library
+- Action: side by side at the front table with laptops and notebooks; she points at her notebook and explains, he nods and smiles
+- Camera: medium, slow push-in from the front of the table
+- Faces: both clear; she turns from her notes to look at him
+- Outfits/light: her soft beige turtleneck, hair down; him grey sweater; warm lamp light (real library C1_library, keep the room as is)
