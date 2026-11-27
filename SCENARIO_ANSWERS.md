@@ -285,3 +285,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Photo: C4_mcewan-dome (cleaned 26692df3…)
 - Action/camera: looking up at the painted, gilded dome, arched windows and columns, families in the galleries; very slow upward tilt, warm light
 - Sound: music + soft echoing choir voices
+
+### Seg 45 — 1:28–1:30 — 4.03 The pipers (Route N)
+- Photo: C4_pipers (cleaned 4e6275b8…)
+- Action: a piper in full Highland dress plays the bagpipes, a drummer in a kilt plays the snare drum, graduates in gowns walk past under a lit street lamp at dusk
+- Camera: slow side track past the pipers
+- Sound: real bagpipes + drum rise over the music for this moment
