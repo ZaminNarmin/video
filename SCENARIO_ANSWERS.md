@@ -40,3 +40,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: over her shoulder onto him, focus pulls from her hair to him
 - Faces: his face clear, her from behind (soft shoulder/hair in foreground)
 - His look (chapter 1): navy crew-neck sweater, dark jeans, light stubble, slim face; real corridor (C1_corridor), students softly blurred
+
+### Seg 06 — 0:10–0:12 — 1.02 The look (2/2)
+- Action: he lowers the phone, slows down and keeps looking at her; she feels it and looks up
+- Camera: cut to her face (reverse shot, medium)
+- Faces: her face clear; she looks up and their eyes meet for a second
+- Sound: corridor chatter softens, music rises
