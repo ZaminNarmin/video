@@ -315,3 +315,12 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Chapter end: soft 0.6 s dissolve into the army base (chapter 5)
 
 **Chapter 4 total: 14 s (1:24–1:38), 7 segments.**
+- Chapter 4 plan approved by the user.
+
+## Chapter 5 — Army
+- Music mood: quieter and tender, turning proud at the visit
+
+### Seg 50 — 1:38–1:40 — 5.01 In uniform (Route B)
+- Photo: C5_him-uniform (green digital-camouflage uniform and cap, sunlit concrete square, long brick building, fence with anchor emblems). This photo is the uniform reference for 5.02.
+- Action: he straightens, gives a small calm smile, then turns his head toward the building; light breeze, clouds drift
+- Camera: slightly low angle, slow push-in (proud)
