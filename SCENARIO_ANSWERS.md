@@ -184,3 +184,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she sits on the grass, looks at his Chicago photo on her phone, her eyes widen and she breaks into a delighted smile — NO hand over her mouth (user removed it)
 - Camera: medium, slow push-in toward her face
 - Outfit: light high-neck knit top and jeans, hair down; sunny park, big trees, students relaxing far behind
+
+### Seg 29 — 0:56–0:58 — 2.12 Studying, SPLIT SCREEN (Route A ×2)
+- Her (left): quiet study room in an old stone Edinburgh building, tall white sash windows, autumn trees outside; she writes notes fast, focused, books around her
+- Him (right): MSU International Center, tall windows, metal globe sculpture; he writes notes fast, focused, lots of books
+- Camera: matched slow push-in in both halves, same warm light
+- Outfits: her cosy high-neck knit sweater, hair down; him hoodie
