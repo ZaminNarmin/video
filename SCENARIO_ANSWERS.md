@@ -247,3 +247,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: they walk up to the tree side by side, looking at the decorations, talking softly
 - Camera: slow arc, tree lights as soft bokeh in the foreground
 - Touch (Seg 38–39): only as in the real photo — NO head on shoulder, NO hug
+
+### Seg 39 — 1:16–1:18 — 3.06 By the tree (2/2)
+- Action: she hangs a small gold bauble on the tree; he watches her and smiles; then they look at each other
+- Camera: continue the slow arc from Seg 38 (one continuous take), slight slow motion
+- Faces: looking at each other — the quiet moment of the chapter
