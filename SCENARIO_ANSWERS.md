@@ -209,3 +209,12 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Chapter end: his snowy window dissolves softly into Edinburgh Castle on a bright winter day (chapter 3)
 
 **Chapter 2 total: 32 s (0:32–1:04), 16 segments.**
+- Chapter 2 plan approved by the user.
+
+## Chapter 3 — New Year together
+
+### Seg 33 — 1:04–1:06 — 3.01 Together again (Route B, Edinburgh Castle esplanade)
+- Photo: C3_edinburgh-castle-families (five people: his mother and brother, her mother, the couple; her burgundy coat + cream scarf, him grey puffer). Trailer lettering softened.
+- Action: everyone steps together into the real photo pose and smiles; visitors stroll behind
+- Camera: wide, slow crane down from the castle walls to the group (families stay wide)
+- Closeness: only as in the real photo
