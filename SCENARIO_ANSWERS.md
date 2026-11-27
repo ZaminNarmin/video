@@ -241,3 +241,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Photo: C3_tower-bridge-families (cleaned f90861da… / 16:9 e08a51f8…); shopping-bag advert painted out
 - Action: the five stand at the riverside railing smiling; a boat glides past, the bridge lights glow in light fog
 - Camera: starts on the group, cranes up to reveal Tower Bridge in the fog
+
+### Seg 38 — 1:14–1:16 — 3.06 By the tree (1/2), KEY SHOT (Route B)
+- Photo: C3_hotel-tree-couple (tall tree, red and gold baubles, hotel lounge, big window full of city lights)
+- Action: they walk up to the tree side by side, looking at the decorations, talking softly
+- Camera: slow arc, tree lights as soft bokeh in the foreground
+- Touch (Seg 38–39): only as in the real photo — NO head on shoulder, NO hug
