@@ -173,3 +173,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: someone takes their photo; he and the mascot pose (the real photo pose), then he breaks into a laugh
 - Camera: light handheld, like a friend filming at the fair
 - Street signs and shop text: softened / blurred
+
+### Seg 27 — 0:52–0:54 — 2.10 Chicago (Route B, night)
+- Photo: C2_chicago-him (cream fleece jacket, stone balustrade, river; tower lettering removed; cleaned d4c55fc4… / 16:9 64006f1f…)
+- Action: he walks along the river path, skyscraper lights reflected in the water, a tour boat glides past
+- Camera: slow orbit from him round to the skyline
+- Text (edit only): small "Chicago"
