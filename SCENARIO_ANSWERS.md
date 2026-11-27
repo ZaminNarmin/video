@@ -150,3 +150,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Him (right): real photo C2_msu-sparty-him, green T-shirt and jeans; takes his hands out of his pockets, looks around campus, smiles
 - Camera: slow small orbit around each of them, revealing the place
 - The Spartan statue stays completely still (only he, trees and sky move)
+
+### Seg 23 — 0:44–0:46 — 2.06 A photo for him (Route B)
+- Photo: C2_edinburgh-fountain-her (beige knit top, plaid skirt, blue-and-gold fountain, castle on the rock)
+- Action: she walks toward the fountain, stops, lifts her phone and takes a photo of the castle; water flows
+- Camera: behind her, over her shoulder — castle on her phone screen and in real life (no text on screen)
+- Montage pace Seg 23–28: quick loose cuts, about 2 s each
