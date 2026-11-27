@@ -252,3 +252,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: she hangs a small gold bauble on the tree; he watches her and smiles; then they look at each other
 - Camera: continue the slow arc from Seg 38 (one continuous take), slight slow motion
 - Faces: looking at each other — the quiet moment of the chapter
+
+### Seg 40 — 1:18–1:20 — 3.07 New Year's Eve (Route B)
+- Photo: C3_new-year-families (cleaned b43980eb… / 16:9 cbd5fc8a…); her long white knit dress, him dark suit
+- Action: the five reach the top of the grand staircase and turn for the photo (ends on the real photo pose); warm light, decorated trees behind
+- Camera: low angle from the bottom of the staircase, slowly rising toward them
+- Focus: everyone sharp (families gentle motion)
