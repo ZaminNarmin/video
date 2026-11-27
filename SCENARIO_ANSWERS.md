@@ -272,3 +272,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Chapter end: a bright firework flash dissolves into sunlit McEwan Hall (chapter 4)
 
 **Chapter 3 total: 20 s (1:04–1:24), 10 segments.**
+- Chapter 3 plan approved by the user.
+
+## Chapter 4 — Graduations and home
+
+### Seg 43 — 1:24–1:26 — 4.01 Graduations, SPLIT SCREEN (Route B ×2)
+- Her (left): photo C4_graduation-her-cap-raised — black gown over a long white dress, wet stone square, domed sandstone McEwan Hall, golden late-afternoon light; she lifts her cap higher and smiles over her shoulder; graduates move behind
+- Him (right): photo C4_graduation-him-msu (cleaned cd5e2fc2… / 16:9 2ae4ab0c…; "No bags" signs softened) — cap and gown, rolled diploma, glass arena, overcast; his sister (brown blazer) holding his arm as in the photo; he lifts the diploma and smiles
+- Camera: matched slow orbit in both halves
