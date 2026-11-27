@@ -307,3 +307,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: both step off the bottom of the twin escalators at the same moment and turn toward each other across the tree
 - Camera: EXACTLY the symmetrical wide frame of Seg 18–19 (the goodbye), slow push-in — a mirror of the departure
 - Outfits: different, summer outfits (user: "Different and more summer outfits") — see Seg 49
+- Summer outfits (Seg 48–49): her long flowing white/cream summer dress, high neck, short sleeves, hair down; him light-blue linen shirt, beige chinos
+
+### Seg 49 — 1:36–1:38 — 4.06 Home (2/2), last shot of chapter 4
+- Action: they walk toward each other and meet in the middle by the tree, smiling (no hug, no touch)
+- Camera: same continuous take, slowly pushing in as they meet
+- Chapter end: soft 0.6 s dissolve into the army base (chapter 5)
+
+**Chapter 4 total: 14 s (1:24–1:38), 7 segments.**
