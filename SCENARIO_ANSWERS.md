@@ -77,3 +77,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Outfits / setting (user's words): "Narmin wears an elegant, short burgundy winter dress with long sleeves, a long tailored coat worn open so that the dress remains visible, and high, knee-length boots. Her hair is worn down naturally, with subtle movement as she walks. Zamin wears a stylish, casual winter jacket with a coordinated sweater and trousers, complementing her outfit without looking deliberately matched. The setting remains a sunny winter day, with soft, warm sunlight filtering through the pine trees. The overall aesthetic should feel romantic, sophisticated and effortlessly natural, resembling a scene from a real romantic film."
   → keep the dress neckline high/closed (Rule 6).
 - Note: his name is Zamin (prompts only, never on screen).
+
+### Seg 11 — 0:20–0:22 — 1.08 Time passes (Route N)
+- Action: campus at dusk (C1_campus-dusk); library windows glow on, clouds drift in time-lapse, a few students on the steps (far)
+- Camera: slow crane up over the campus as the light changes
+- Sound: music only
