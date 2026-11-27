@@ -348,3 +348,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Chapter end: soft 0.6 s dissolve into the "Hə Almağa Gəlmişik" sign (chapter 6)
 
 **Chapter 5 total: 10 s (1:38–1:48), 5 segments.**
+- Chapter 5 plan approved by the user.
+
+## Chapter 6 — Asking for her hand
+- Sound: warmer music + soft family voices and tea glasses clinking in the background
+
+### Seg 55 — 1:48–1:50 — 6.01 Hə Almağa Gəlmişik (Route E/N, edit only)
+- Photo: C6_he-almaga-sign (cleaned e9abbd5b…)
+- Made in the edit from the real photo (extras.py sign): very slow push-in; letters untouched, no AI animation of the sign
