@@ -291,3 +291,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: a piper in full Highland dress plays the bagpipes, a drummer in a kilt plays the snare drum, graduates in gowns walk past under a lit street lamp at dusk
 - Camera: slow side track past the pipers
 - Sound: real bagpipes + drum rise over the music for this moment
+
+### Seg 46 — 1:30–1:32 — 4.04 Flowers (Route B)
+- Photo: C4_graduation-her-family (two women in long coats, a boy in a cream sweater, wet stone square, sandstone hall, low golden sun)
+- Action: her mother hands her the big bouquet, she smiles, and they settle into the real photo pose
+- Camera: medium-wide slow arc, sandstone hall in golden light behind (family stays medium/wide)
+- Focus: everyone sharp
