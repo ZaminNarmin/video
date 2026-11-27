@@ -339,3 +339,12 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: slow push-in toward her and the window
 - Look: one cosy high-neck sweater, hair down; only the light and the view change
 - Phone: screen soft, a glow of his photo, not readable; no clock, calendar or date anywhere
+
+### Seg 54 — 1:46–1:48 — 5.04 Visiting day (Route B, last shot of chapter 5)
+- Photo: C5_visit-families (him in uniform in the middle, her in white beside him, families around, stone gate arch)
+- Action: families gather around him and settle into the real photo pose, smiling; light breeze, people walk in the background
+- Camera: wide, slow push-in (families stay wide)
+- Clean-up: car number plates on the left blurred; gate lettering kept unchanged (soften only if it warps)
+- Chapter end: soft 0.6 s dissolve into the "Hə Almağa Gəlmişik" sign (chapter 6)
+
+**Chapter 5 total: 10 s (1:38–1:48), 5 segments.**
