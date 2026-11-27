@@ -121,3 +121,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: side by side through the terminal toward camera, each pulling a suitcase, talking quietly
 - Camera: dolly backward in front of them (real terminal C2_airport-terminal: white lattice ceiling, glass balconies, pale floor)
 - Travel outfits, kept through 2.03 (user's words): "Narmin wears a comfortable grey sweater with matching grey sweatpants, creating a relaxed, coordinated travel outfit. Her hair is worn down naturally. Zamin wears a blue sweater with matching blue sweatpants. Both outfits should look casual, comfortable and stylish, reflecting a relaxed couple travelling together."
+
+### Seg 18 — 0:34–0:36 — 2.02 Two directions (1/2), KEY SHOT (Route A)
+- Action: at the bottom of the twin escalators they look at each other, then step onto opposite escalators — she left, he right — tree in the middle
+- Camera: perfectly symmetrical centred wide, very slow push-in
+- Faces: small in the big hall; feeling shown through body and distance
+- Sound: soft echoing terminal + suitcase wheels + music
