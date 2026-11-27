@@ -190,3 +190,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Him (right): MSU International Center, tall windows, metal globe sculpture; he writes notes fast, focused, lots of books
 - Camera: matched slow push-in in both halves, same warm light
 - Outfits: her cosy high-neck knit sweater, hair down; him hoodie
+
+### Seg 30 — 0:58–1:00 — 2.13 Winter, SPLIT SCREEN (Route A ×2)
+- Her (left): grey wet winter day, castle on the rock above bare trees; she walks the path below, hands in pockets, wind in her hair
+- Him (right): the SAME curved red-brick MSU building as Seg 25, now in deep snow, snow falling; he walks the snowy path, breath visible
+- Camera: matched tracking beside each of them
+- Outfits (user's words): "Her long burgundy coat and cream scarf; him dark puffer, beanie, scarf."
