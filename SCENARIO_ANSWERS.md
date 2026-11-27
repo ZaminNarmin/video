@@ -167,3 +167,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: he stops on the path, looks at her photo on his phone and smiles, then holds the phone up and photographs the curved red-brick building
 - Camera: medium, slow arc from his face round to the building
 - Outfit: green T-shirt and jeans (as in 2.05b), dappled sun under big oaks (location C2_msu-building)
+
+### Seg 26 — 0:50–0:52 — 2.09 Michigan life (Route B, street fair)
+- Photo: C2_lansing-mascot-him (white T-shirt, grey jeans, Spartan mascot; cleaned 49ad0831… / 16:9 a568a748…)
+- Action: someone takes their photo; he and the mascot pose (the real photo pose), then he breaks into a laugh
+- Camera: light handheld, like a friend filming at the fair
+- Street signs and shop text: softened / blurred
