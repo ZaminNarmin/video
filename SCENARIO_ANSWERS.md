@@ -87,3 +87,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: choir sings on stage, graduates in caps and gowns watch, a woman films with her phone; no year on the banner
 - Camera: slow push through the crowd toward the stage
 - Sound: music + soft choir voices blended in
+
+### Seg 13 — 0:24–0:26 — 1.10 With our families (Route B, real photo)
+- Action: family steps in around them and they settle into the real photo pose and smile; the photo moment is the last beat
+- Camera: medium-wide, slow arc around the group; family faces stay small
+- Focus: everyone sharp (deep focus)
+- Look: as in the real photo — black gowns, she in white dress under the gown, hair as in the photo, red roses and diploma
