@@ -105,3 +105,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Action: camera flashes go off; she smiles and leans slightly toward him, he relaxes into a smile
 - Camera: slow push-in as the flashes go off
 - Touch: exactly as in the real photo, nothing added
+
+### Seg 16 — 0:30–0:32 — 1.13 The dance (Route B, last shot of chapter 1)
+- Action: she dances and laughs, he turns toward her; other guests dance around them, softly blurred
+- Camera: slow drift, slow motion, ending on the warm golden string lights
+- Dress: keep the real champagne off-shoulder gown exactly as in the real photo (her real prom dress — user approved)
+- Chapter end: fade through the warm string lights, soft dissolve into chapter 2 (airport)
+
+**Chapter 1 total: 32 s (0:00–0:32), 16 segments.**
