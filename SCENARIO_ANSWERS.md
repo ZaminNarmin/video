@@ -392,3 +392,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 
 **Chapter 6 total: 14 s (1:48–2:02), 7 segments.**
 **FILM TOTAL: 2:02 (61 segments).**
+- Chapter 6 plan and the whole film (2:02, 61 segments) approved by the user.
+
+## Final round
+- Prompts in the handoff: ready-to-paste for every take
+- First production step: make the WHOLE of chapter 1 (Seg 01–16), show it to the user, and continue only after their OK
