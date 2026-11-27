@@ -50,3 +50,10 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 
 ### 1.03 Her shy smile — REMOVED as a separate shot (folded into Seg 06)
 ### 1.04 His smile — MERGED: one 2 s two-shot (Seg 07): both in frame, she smiles, he smiles back, then the café
+
+### Seg 07 — 0:12–0:14 — merged shared smile (end of corridor scene)
+- Action (user's words): "Neither stops, looks back, nods or makes an exaggerated gesture. For a brief moment, their attention is entirely on each other. End the corridor scene on this shared smile and transition directly to the café scene. No additional reaction shots or close-ups are needed. The transition should feel like a natural progression in a romantic film, with the background music continuing smoothly into the next scene."
+  → They keep walking and pass each other side by side in opposite directions, eyes on each other, a shared smile.
+- Camera: medium side view of the corridor as they pass, slight slow motion
+- His expression: smile, a little embarrassed (any glance away is tiny; the shared look is the point)
+- Transition: MATCH CUT on the smile → café (her laugh), music continues
