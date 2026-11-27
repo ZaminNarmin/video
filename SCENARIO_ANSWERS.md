@@ -139,3 +139,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: matched slow push-in in both halves, same soft daylight
 - Text (edit only): "Edinburgh" over her half, "Michigan" over his half
 - Outfits: same travel outfits (her grey sweater set, his blue sweater set), hair down
+
+### Seg 21 — 0:40–0:42 — 2.04 Two skies (Route N)
+- Action: two passenger jets side by side above golden clouds slowly turn away from each other; contrails split into a wide V
+- Camera: slow calm aerial drift
+- Light: golden hour
