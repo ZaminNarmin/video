@@ -324,3 +324,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Photo: C5_him-uniform (green digital-camouflage uniform and cap, sunlit concrete square, long brick building, fence with anchor emblems). This photo is the uniform reference for 5.02.
 - Action: he straightens, gives a small calm smile, then turns his head toward the building; light breeze, clouds drift
 - Camera: slightly low angle, slow push-in (proud)
+
+### Seg 51 — 1:40–1:42 — 5.02 Watching him go (1/2), KEY SHOT (Route A)
+- Action: close on her face; in the soft background he walks away toward the stone gate arch; she watches him go, tries to smile, her eyes glisten
+- Camera: close-up, focus on her, him soft in the background, slow motion (gate lettering out of focus)
+- Her outfit (Seg 51–52): cream coat, high neck, hair down; grey day. His uniform exactly as C5_him-uniform.
