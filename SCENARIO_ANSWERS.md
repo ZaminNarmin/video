@@ -196,3 +196,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Him (right): the SAME curved red-brick MSU building as Seg 25, now in deep snow, snow falling; he walks the snowy path, breath visible
 - Camera: matched tracking beside each of them
 - Outfits (user's words): "Her long burgundy coat and cream scarf; him dark puffer, beanie, scarf."
+
+### Seg 31 — 1:00–1:02 — 2.14 The call (1/2), KEY SHOT, SPLIT SCREEN (Route A ×2)
+- Her (left): cosy Edinburgh student room, warm desk lamp, rain on the dark window; she talks warmly, encouraging him, smiling
+- Him (right): Michigan student room, heavy snow outside, warm lamp + cold blue window light; he listens and smiles
+- Camera: beside each laptop, 3/4 view of each face lit by the lamp; laptop screens soft or out of view
+- Outfits: her soft oversized high-neck sweater, hair down; him hoodie
