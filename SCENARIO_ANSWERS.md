@@ -99,3 +99,9 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Camera: dolly backward in front of them
 - Faces: both clear, looking at each other
 - Light: sunlight flickering through the canopy slats (as in the photo); her white dress, him white shirt; "Commencement" banner removed
+
+### Seg 15 — 0:28–0:30 — 1.12 The prom, Zağulba Palace (Route B)
+- Photo: C1_prom-portrait (cleaned: "PROM 2024" and watermark removed; media 0c36a0ea… / 16:9 3d8614ce…)
+- Action: camera flashes go off; she smiles and leans slightly toward him, he relaxes into a smile
+- Camera: slow push-in as the flashes go off
+- Touch: exactly as in the real photo, nothing added
