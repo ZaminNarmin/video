@@ -113,3 +113,11 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Chapter end: fade through the warm string lights, soft dissolve into chapter 2 (airport)
 
 **Chapter 1 total: 32 s (0:00–0:32), 16 segments.**
+- Chapter 1 plan approved by the user.
+
+## Chapter 2 — Studying abroad
+
+### Seg 17 — 0:32–0:34 — 2.01 Leaving together (Route A, Baku airport)
+- Action: side by side through the terminal toward camera, each pulling a suitcase, talking quietly
+- Camera: dolly backward in front of them (real terminal C2_airport-terminal: white lattice ceiling, glass balconies, pale floor)
+- Travel outfits, kept through 2.03 (user's words): "Narmin wears a comfortable grey sweater with matching grey sweatpants, creating a relaxed, coordinated travel outfit. Her hair is worn down naturally. Zamin wears a blue sweater with matching blue sweatpants. Both outfits should look casual, comfortable and stylish, reflecting a relaxed couple travelling together."
