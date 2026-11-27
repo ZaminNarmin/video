@@ -302,3 +302,8 @@ NOTE: from here on, segment numbers are the NEW timeline (old Appendix A numbers
 - Night Earth with city lights; two glowing arcs from Michigan (42.73 N, −84.48 E) and Edinburgh (55.95 N, −3.19 E) meet over Baku (40.41 N, 49.87 E) with a soft flash; only the word "Baku"
 - Length: 2 s (render globe.py with DUR=2.0, or speed the 3.6 s render up ×1.8)
 - Sound: soft whoosh along the arcs + a soft chime at the flash
+
+### Seg 48 — 1:34–1:36 — 4.06 Home (1/2), KEY SHOT (Route A)
+- Action: both step off the bottom of the twin escalators at the same moment and turn toward each other across the tree
+- Camera: EXACTLY the symmetrical wide frame of Seg 18–19 (the goodbye), slow push-in — a mirror of the departure
+- Outfits: different, summer outfits (user: "Different and more summer outfits") — see Seg 49
